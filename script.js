@@ -106,3 +106,5 @@ B1.addEventListener('change', function () {
   S2.addEventListener('change', function () {
     changeAll(B2, G2, S2, 'item2')
   })
+
+// end
